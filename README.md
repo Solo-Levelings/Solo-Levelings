@@ -1,5 +1,19 @@
-# 💫 About Me:
-I'm currently working on resume shortlisting using AI, and I'm learning about generative AI to enhance my skills. With my background in software development, machine learning, and languages like Java, Python, and C++, I aim to integrate cutting-edge AI techniques to revolutionize the hiring process and improve candidate matching.
+🌟 Greetings, Innovators & Recruiters! I'm Tejas Devkar, an AI Enthusiast & Developer on a Journey to Transform Ideas into Reality!
+
+🚀 Currently, I'm diving deep into AI-powered resume shortlisting and pushing the boundaries of Generative AI to create smarter, more efficient solutions. My passion lies in merging software development with machine learning to tackle real-world challenges and deliver innovative results.
+
+💡 With hands-on experience in Java, Python, C++, and Spring Boot, I'm all about crafting scalable, high-performance applications. Whether it's building back-end systems or developing intelligent algorithms, I'm constantly exploring ways to optimize and automate.
+
+🌟 My recent focus? Leveraging AI to reshape the future of talent acquisition, enabling more accurate candidate matching and streamlining the hiring process. I believe that technology, especially AI, has the potential to revolutionize industries, and I'm eager to be part of that transformation.
+
+🔭 **Currently learning:**
+- **Generative AI**
+- **Advanced Machine Learning Techniques**
+- Expanding my skills in **Cloud Computing** and **Data Science**
+
+🎯 When I'm not coding, you'll find me exploring the latest tech trends, contributing to open-source projects, and collaborating with like-minded individuals.
+
+Feel free to explore my projects and connect with me. Together, we can innovate and create a smarter future! 🌍✨
 
 
 ## 🌐 Socials:
